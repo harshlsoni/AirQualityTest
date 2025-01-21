@@ -26,3 +26,5 @@ Used several different models but the best one was Polynomial Regression model..
 Mean absolute error of Polynomial regression model is:  0.1321937386189513
 
 R2 score  of Polynomial regression model is:  0.7973665781296121
+
+[Here's a graph showing the model's accuracy:]("image.png")
